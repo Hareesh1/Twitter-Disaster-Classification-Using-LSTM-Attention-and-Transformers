@@ -1,6 +1,5 @@
 #  Twitter Disaster Classification Using LSTM, Attention & Transformers 
 
-![Project Banner](Pictures/banner.png) *(Example: Replace with actual image if available)*
 
 A Natural Language Processing (NLP) project to classify whether a tweet is about a real disaster or not using deep learning models like **LSTM with Attention** and **Transformer-based architectures**.
 
